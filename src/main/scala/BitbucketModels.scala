@@ -1,4 +1,4 @@
-package io.yard.bitbucket
+package io.yard.module.bitbucket
 package models
 
 import play.api.libs.json._

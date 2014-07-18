@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /home/paul/Work/projects/yardio/yardio-module-bitbucket/target/scala-2.11/yardio-module-bitbucket_2.11-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	BitbucketController.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/paul/Work/projects/yardio/yardio-module-bitbucket/src/main/scala/BitbucketController.scala[0m
+[0m[[0mdebug[0m] [0m	BitbucketModels.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/paul/Work/projects/yardio/yardio-module-bitbucket/src/main/scala/BitbucketModels.scala[0m
+[0m[[0mdebug[0m] [0m	BitbucketConfig.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/paul/Work/projects/yardio/yardio-module-bitbucket/src/main/scala/BitbucketConfig.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
