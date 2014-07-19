@@ -7,11 +7,11 @@ import play.api.libs.json._
 import play.api.libs.functional.syntax._
 
 import io.yard.module.core.Api
-import io.yard.models._
+import io.yard.common.models._
 import io.yard.module.bitbucket.models._
 
 object BitbucketController
-  extends io.yard.models.ModuleController
+  extends io.yard.common.models.ModuleController
   with io.yard.module.bitbucket.utils.BitbucketConfig {
 
   lazy val logger = initLogger("yardio.modules.bitbucket.controller")
